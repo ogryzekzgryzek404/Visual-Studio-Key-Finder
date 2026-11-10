@@ -1,4 +1,4 @@
-﻿using System.Collections.Generic;
+using System.Collections.Generic;
 
 namespace VsKeyFinder.Data
 {
@@ -106,7 +106,16 @@ namespace VsKeyFinder.Data
                     Guid = "1299B4B9-DFCC-476D-98F0-F65A2B46C96D",
                     Code = "09662",
                     Key = ""
+                },
+                new Product()
+                {
+                    Name = $"Visual Studio 2026 {Properties.Resources.TxtProfessional}",
+                    Guid = "97372B8F-5B80-4DA7-8476-FF55D6368CBD",
+                    Code = "09862",
+                    Key = ""
                 }
+
+                //715F10EB-9E99-11D2-BFC2-00C04F990235
 
             };
 
